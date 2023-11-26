@@ -1,5 +1,3 @@
-# Links zur DFL-Teamzone-App
-
 ## LOCAL
 
 * [API](http://localhost:4500)
