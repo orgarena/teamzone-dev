@@ -13,3 +13,4 @@
 * [Mobile Client sopidemo.de](https://teamzone-mobile-dev.sopidemo.de)
 * [TestAuth Client sopidemo.de](https://teamzone-testauth-dev.sopidemo.de)
 * [Android](https://st2dkyz5hmctmfr6.blob.core.windows.net/downloads/com.orgarena.teamzone.dev/android.install.html)
+* [Android Internal Test](https://play.google.com/apps/internaltest/4701512239852630942)
