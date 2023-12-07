@@ -3,8 +3,8 @@
 * [API](http://localhost:4500)
 * [Desktop Client](http://localhost:4501)
 * [Mobile Client](http://localhost:4502)
-* [TestAuth Client](http://localhost:4511)
-* [Test App](http://localhost:4510)
+* [TestAuth Client](http://localhost:4510)
+* [Test App](http://localhost:4511)
 
 ## DEV
 
