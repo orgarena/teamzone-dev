@@ -25,6 +25,7 @@
 ## PROD
 
 * [API](https://app-api-bocibphyfijhu.azurewebsites.net)
+* [Desktop Client dfl.de](https://teamzone.dfl.de)
 * [Desktop Client sopidemo.de](https://dflteamzoneclient.sopidemo.de)
 * [Mobile Client sopidemo.de](https://dflteamzonemobile.sopidemo.de)
 * [TestAuth Client sopidemo.de](https://dflteamzonetestauth.sopidemo.de)
